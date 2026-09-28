@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola! Sóc la Laia
 
-<!--
-**laiacarrilloITB/laiacarrilloITB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)** a l'**Institut Tecnològic de Barcelona (ITB)**.
 
-Here are some ideas to get you started:
+💻 M'interessa el desenvolupament de programari, la programació i la tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologies
+
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML & CSS
+- ⚡ JavaScript / TypeScript
+- 🗄️ SQL / MySQL
+- 🌱 Spring Boot
+- 🅰️ Angular
+- 🎮 Desenvolupament de videojocs amb Unity
+
+### 📚 Actualment aprenent
+
+- Desenvolupament d'aplicacions multiplataforma
+- Bases de dades
+- Kotlin
+- Programació orientada a objectes
+- Desenvolupament de videojocs
+
+### 🎯 Objectiu
+
+Continuar aprenent, crear projectes interessants i créixer com a desenvolupadora de programari.
+
+---
+
+
